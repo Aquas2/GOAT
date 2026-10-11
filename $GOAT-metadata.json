@@ -1,0 +1,21 @@
+{
+  "name": "$GOAT",
+  "symbol": "$GOAT",
+  "description": "Structured Market Tokens",
+  "image": "https://raw.githubusercontent.com/Aquas2/RUBRAVYN/refs/heads/main/RUBRAVYN%20STONE.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Aquas2/RUBRAVYN/refs/heads/main/RUBRAVYN%20STONE.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "87JiY5jsCQhQUNpEzUx5nEZS1V1tNnq2z2puczWoS2Zo",
+        "share": 100
+      }
+    ]
+  }
+}
